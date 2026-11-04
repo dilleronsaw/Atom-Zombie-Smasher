@@ -220,4 +220,4 @@ Atom Zombie Smasher is a full free version of the game, providing access to all 
 Download Atom Zombie Smasher now and embark on your journey to save humanity from the undead!
 
 ---
-**Last updated:** 2026-11-03 23:44:28 UTC
+**Last updated:** 2026-11-04 03:27:32 UTC
